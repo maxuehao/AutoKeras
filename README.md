@@ -16,10 +16,10 @@ To install the package, please use the `pip` installation as follows:
 
 ## Instructions for use
 The folder structure in which the dataset is stored<br>
-.<br>
-├── test<br>
-│   ├── 0<br>
-│   └── 1<br>
-└── train<br>
-    ├── 0<br>
-    └── 1<br>
+```
+├── test
+│   ├── 0
+│   └── 1
+└── train
+    ├── 0
+    └── 1
