@@ -13,3 +13,13 @@ To install the package, please use the `pip` installation as follows:
     pip install autokeras
     
 **Note:** currently, Auto-Keras is only compatible with: **Python 3.6**.
+
+## Instructions for use
+The folder structure in which the dataset is stored<br>
+.<br>
+├── test<br>
+│   ├── 0<br>
+│   └── 1<br>
+└── train<br>
+    ├── 0<br>
+    └── 1<br>
