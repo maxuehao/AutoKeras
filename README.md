@@ -2,7 +2,8 @@
 This is an example of using AutoKeras on image classification issues.
 
 ## AutoKeras Website
-https://autokeras.com/
+https://autokeras.com/<br>
+https://github.com/jhfjhfj1/autokeras
 
 ## Environmental requirements
   1.Python3.6<br>2.AutoKeras<br>3.python-opencv
