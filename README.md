@@ -15,11 +15,18 @@ To install the package, please use the `pip` installation as follows:
 **Note:** currently, Auto-Keras is only compatible with: **Python 3.6**.
 
 ## Instructions for use
-The folder structure in which the dataset is stored<br>
+The folder structure in which the dataset is stored:<br>
 ```
+.
 ├── test
 │   ├── 0
 │   └── 1
 └── train
     ├── 0
     └── 1
+```
+0 and 1 are folders for storing images of different categories
+### Next
+```
+  python demo_autokeras.py
+```
